@@ -1,0 +1,20 @@
+{
+  "name": "taky-cache-loop",
+  "description": "in-memory interval cache for high performance",
+  "version": "0.0.1",
+  "main": "./module.js",
+  "author": "douglas lauer <taky@taky.com>",
+  "repository": "douglauer/taky-cache-loop",
+  "keywords": [
+    "taky",
+    "cache",
+    "cache loop",
+    "memory cache",
+    "native memory"
+  ],
+  "dependencies": {
+    "every-time": "0.0.0",
+    "lodash": "^3.10.1",
+    "memory-cache": "^0.1.4"
+  }
+}
