@@ -1,7 +1,7 @@
 {
   "name": "taky-cache-loop",
   "description": "in-memory interval cache for high performance",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./module.js",
   "author": "douglas lauer <taky@taky.com>",
   "repository": "douglauer/taky-cache-loop",
