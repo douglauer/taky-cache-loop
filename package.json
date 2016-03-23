@@ -13,7 +13,7 @@
     "native memory"
   ],
   "dependencies": {
-    "every-time": "0.0.0",
+    "every-time-mirror": "0.0.0",
     "lodash": "^3.10.1",
     "memory-cache": "^0.1.4"
   }

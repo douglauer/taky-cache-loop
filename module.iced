@@ -3,7 +3,7 @@ log = (x) -> try console.log x
 
 _ = require 'lodash'
 
-every = require 'every-time'
+every = require 'every-time-mirror'
 cache = require 'memory-cache'
 
 module.exports = class CacheLoop
